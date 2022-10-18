@@ -1,0 +1,2 @@
+# REST-API-with-python-Flask-PostgreSQL
+INSERT INTO movie (id, title,duration,released) VALUES ('1s2s5sd5-asd6565-46as5-asdasd64sd','el vengador',123,'2001-02-16');
